@@ -1,6 +1,9 @@
 * {
   box-sizing: border-box;
 }
+.butPHH{
+  min-height: 0 !important;
+}
 
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
@@ -211,6 +214,9 @@ h2 {
 }
 
 .homeBtn a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   text-decoration: none;
   color: rgb(255, 255, 255);
   font-family: "header";
@@ -222,6 +228,9 @@ h2 {
   text-align: center;
   margin: 0 0.5rem;
 
+}
+.homeBtn svg {
+  margin-right: 20px;
 }
 
 /* sections */
