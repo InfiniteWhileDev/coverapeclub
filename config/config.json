@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xD126D4aAdA3bf1E6bEb0Aaa1114c3C1373D0C41B",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xF2885bd200f62849F0aad5E867Bb91A964e74B91",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": " Phoodles ",
+  "SYMBOL": "Phoodle",
+  "MAX_SUPPLY": 4444,
+  "WEI_COST": 40000000000000000,
+  "DISPLAY_COST": 0.04,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/phoodles",
+  "SHOW_BACKGROUND": false
+}
