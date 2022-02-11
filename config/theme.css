@@ -18,6 +18,7 @@ body {
   background-size: 100%;
   background-position: contain;
   z-index: 100;
+  overflow-x: hidden;
 }
 
 ul {
@@ -1041,6 +1042,11 @@ button:hover {
 
 .mobile_headings {
   display: none;
+  max-width: 310px;
+}
+.mobile_headings img {
+ width: 100%;
+ height: auto;
 }
 
 
@@ -1070,7 +1076,7 @@ button:hover {
   }
 
   .navflexlogo a {
-    padding: 10px;
+    padding: 4px;
   }
 
   .headerimg {
